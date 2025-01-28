@@ -1,0 +1,20 @@
+{
+  "strictLineBreaks": true,
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "vimMode": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "spellcheck": false,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "attachments",
+  "useMarkdownLinks": true,
+  "focusNewTab": true,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "rightToLeft": false,
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true,
+  "trashOption": "system",
+  "foldIndent": true
+}
