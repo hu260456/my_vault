@@ -55,6 +55,12 @@ git branch -m <old> <new> # 重命名local分支old为new
 git checkout -b <新分支的名称> # 创建并切换到分支
 ```
 
+#### remote
+
+```shell
+git remote add <远端仓库名> <远端仓库URL>
+```
+
 #### push
 
 ```Shell

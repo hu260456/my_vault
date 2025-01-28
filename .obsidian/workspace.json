@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "工具/git.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -180,7 +180,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -198,8 +199,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d33727c1dee1e02d",
+  "active": "b329b9ae138f5908",
   "lastOpenFiles": [
+    "工具/git.md.baiduyun.uploading.cfg",
     "linux/shell.md",
     "linux/常用工具.md",
     "linux/操作系统.md",
@@ -231,7 +233,6 @@
     "计算机基础/设计模式.md",
     "语言/cpp/headers/ctime.md",
     "语言/cpp/headers/thread.md",
-    "语言/c/c.md",
     "语言/c/headers",
     "语言/asm",
     "语言/python/第三方模块",
