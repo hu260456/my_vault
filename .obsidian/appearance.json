@@ -6,6 +6,10 @@
   "monospaceFontFamily": "",
   "showViewHeader": false,
   "baseFontSizeAction": true,
-  "baseFontSize": 21,
-  "theme": "system"
+  "baseFontSize": 22,
+  "theme": "system",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "my_css"
+  ]
 }

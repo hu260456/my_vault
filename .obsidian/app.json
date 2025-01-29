@@ -1,7 +1,7 @@
 {
   "strictLineBreaks": true,
   "promptDelete": false,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "vimMode": false,
   "defaultViewMode": "preview",
   "showLineNumber": false,
@@ -16,5 +16,6 @@
   "autoPairMarkdown": false,
   "alwaysUpdateLinks": true,
   "trashOption": "system",
-  "foldIndent": true
+  "foldIndent": true,
+  "showRibbon": true
 }
